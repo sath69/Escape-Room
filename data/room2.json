@@ -1,0 +1,53 @@
+{
+    "SET1":{
+        "questions":[
+            "(Q1): What is the capital city of Thailand? \n(a)Tokyo  \n(b)Adamstown  \n(c)Bangkok  \n(d)Beijing: ",
+            "(Q2): Who is the current prime minister of the United Kingdom and Northern Ireland? \n(a)Boris Johnson  \n(b)Joe Biden  \n(c)Liz Truss  \n(d)Rishi Sunak: ",
+            "(Q3): Who invented direct current?: \n(a)Nikola Tesla  \n(b)Thomas Edison  \n(c)Marie Curie  \n(d):Charles Babbage: ",
+            "(Q4): What is the factorial of 5?: ",
+            "(Q5): What is the exact value of cos(90)?: ",
+            "(Q6): True or false? Is 729 a prime number?:"
+        ], 
+       
+        "answers":[
+            "c",
+            "d",
+            "a",
+            "120",
+            "0",
+            "True"
+        ]
+    },
+
+
+    "SET2":{
+        "questions":{
+           
+        },
+
+        "answers":{
+          
+        }
+    },
+
+    "SET3":{
+        "questions":{
+            
+        },
+
+        "answers":{
+            
+        }
+    },
+    "SET4":{
+        "questions":{
+            
+        },
+
+        "answers":{
+            
+        }
+    }
+
+}
+
